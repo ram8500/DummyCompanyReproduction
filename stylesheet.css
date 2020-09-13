@@ -246,7 +246,7 @@ footer {
   margin: 50px auto;
 }
 .footer-list ul li {
-  display: none;
+/*   display: none; */
 }
 }
 /* ここからタブレット対応 */
